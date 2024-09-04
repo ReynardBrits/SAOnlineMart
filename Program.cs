@@ -1,4 +1,4 @@
-using SAOnlineMarket1.Data;
+using SAONLINEMARKET.Data;
 using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);

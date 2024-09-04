@@ -1,7 +1,7 @@
 ﻿using Microsoft.EntityFrameworkCore;
-using SAOnlineMarket1.Models;
+using SAONLINEMARKET.Models;
 
-namespace SAOnlineMarket1.Data
+namespace SAONLINEMARKET.Data
 {
     public class ApplicationDbContext : DbContext
     {

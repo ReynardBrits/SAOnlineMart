@@ -2,13 +2,13 @@
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc.ViewEngines;
 using Microsoft.AspNetCore.Mvc.ViewFeatures;
-using SAOnlineMarket1.Data;
-using SAOnlineMarket1.Models;
+using SAONLINEMARKET.Data;
+using SAONLINEMARKET.Models;
 using System.IO;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc.Rendering;
 
-namespace SAOnlineMarket1.Controllers
+namespace SAONLINEMARKET.Controllers
 {
     public class CartController : Controller
     {

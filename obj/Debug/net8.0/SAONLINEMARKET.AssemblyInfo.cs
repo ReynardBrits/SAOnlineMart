@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SAONLINEMARKET")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7be29e3854f4eea87abadc4128be2d99d196c4fc")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+195c1fbf2fc7f71dd13e1ec7067d9098aa0ac631")]
 [assembly: System.Reflection.AssemblyProductAttribute("SAONLINEMARKET")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SAONLINEMARKET")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

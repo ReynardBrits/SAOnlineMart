@@ -1,9 +1,9 @@
 ﻿using Microsoft.AspNetCore.Mvc;
-using SAOnlineMarket1.Data;
-using SAOnlineMarket1.Models;
+using SAONLINEMARKET.Data;
+using SAONLINEMARKET.Models;
 using System.Linq;
 
-namespace SAOnlineMarket1.Controllers
+namespace SAONLINEMARKET.Controllers
 {
     public class AdminController : Controller
     {

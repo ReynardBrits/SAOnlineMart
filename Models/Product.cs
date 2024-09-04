@@ -1,6 +1,6 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 
-namespace SAOnlineMarket1.Models
+namespace SAONLINEMARKET.Models
 {
     public class Product
     {

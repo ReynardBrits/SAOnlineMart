@@ -1,0 +1,9 @@
+C:\Users\reyna\source\repos\SAONLINEMARKET\obj\Debug\net8.0\SAONLINEMARKET.csproj.AssemblyReference.cache
+C:\Users\reyna\source\repos\SAONLINEMARKET\obj\Debug\net8.0\SAONLINEMARKET.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\reyna\source\repos\SAONLINEMARKET\obj\Debug\net8.0\SAONLINEMARKET.AssemblyInfoInputs.cache
+C:\Users\reyna\source\repos\SAONLINEMARKET\obj\Debug\net8.0\SAONLINEMARKET.AssemblyInfo.cs
+C:\Users\reyna\source\repos\SAONLINEMARKET\obj\Debug\net8.0\SAONLINEMARKET.csproj.CoreCompileInputs.cache
+C:\Users\reyna\source\repos\SAONLINEMARKET\obj\Debug\net8.0\SAONLINEMARKET.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\reyna\source\repos\SAONLINEMARKET\obj\Debug\net8.0\SAONLINEMARKET.RazorAssemblyInfo.cache
+C:\Users\reyna\source\repos\SAONLINEMARKET\obj\Debug\net8.0\SAONLINEMARKET.RazorAssemblyInfo.cs
+C:\Users\reyna\source\repos\SAONLINEMARKET\obj\Debug\net8.0\SAONLINEMARKET.sourcelink.json

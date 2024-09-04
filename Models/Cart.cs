@@ -1,4 +1,4 @@
-﻿namespace SAOnlineMarket1.Models
+﻿namespace SAONLINEMARKET.Models
 {
     public class Cart
     {
